@@ -1,0 +1,4 @@
+- for of loop - functions like for loop (easy syntax)
+- for in is used to access the index no in an array 
+- forEach() is used for iterating over elements in arrays. It's a method provided by arrays, and it allows you to perform an action on each element of the array.
+- forEach is a method to itearte over arrays 
