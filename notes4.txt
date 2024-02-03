@@ -1,0 +1,1 @@
+This code uses a for loop to iterate through numbers from 1 to 100. It checks the conditions for multiples of 3 and 5 first, then for multiples of 3, then for multiples of 5, and finally, if none of these conditions are met, it prints the current number.
