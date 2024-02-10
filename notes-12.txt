@@ -1,0 +1,2 @@
+Using Filter:
+You can use the filter method to create a new array that only contains the first occurrence of each element.

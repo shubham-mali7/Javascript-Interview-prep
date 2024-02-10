@@ -1,0 +1,21 @@
+let array = [1,3,5,4,2,6,12];
+
+function maxValueFinder(arr){
+if(arr.length==0){
+    return "String is empty";
+}
+
+// main iteration 
+let max = arr[0];
+for(i=1; i<=arr.length; i++){
+    if(arr[i]>max){
+        max = arr[i];
+    }
+}
+
+return max;
+}
+
+const maxValue = maxValueFinder(array);
+
+console.log(`Max value in the array is ${maxValue}`)
