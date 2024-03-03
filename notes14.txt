@@ -1,0 +1,4 @@
+Explain Call back function
+
+- Functions can be passed as an argument to another function, this ability makes them first class functions or first class citizens of js 
+- Functions which are passed as a value or an argument to another function are called as call back function  
